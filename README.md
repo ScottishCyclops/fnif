@@ -64,4 +64,4 @@ const denomination = $if(age >= 18,
 ```
 
 
-Please report any issues on [Github](https://github.com/ScottishCyclops/aslo/issues) ! Thanks
+Please report any issues on [Github](https://github.com/ScottishCyclops/fnif/issues) ! Thanks
