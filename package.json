@@ -1,0 +1,26 @@
+{
+  "name": "fnif",
+  "version": "1.0.0",
+  "description": "Simple functional if statement also known as branch",
+  "main": "fnif.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScottishCyclops/fnif.git"
+  },
+  "keywords": [
+    "functional",
+    "if",
+    "branch",
+    "function",
+    "test"
+  ],
+  "author": "Scott Winkelmann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ScottishCyclops/fnif/issues"
+  },
+  "homepage": "https://github.com/ScottishCyclops/fnif#readme"
+}
